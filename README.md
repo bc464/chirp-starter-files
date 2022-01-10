@@ -28,3 +28,4 @@ If you want more real-time communication, you can visit our community on [Slack]
 
 https://fonts.google.com/specimen/Inter
 # chirp-starter-files
+![Screenshot 2022-01-10 at 19-40-37 Chirp](https://user-images.githubusercontent.com/82536545/148812859-284be61d-98be-43f1-89a8-e2f6ae6b221a.png)
